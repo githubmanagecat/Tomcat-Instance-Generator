@@ -1,3 +1,7 @@
 .idea/**
 target/**
 *.iml
+/target/
+/bin/
+bin/**
+.settings
